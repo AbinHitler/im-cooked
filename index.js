@@ -1,1 +1,1 @@
-const a = 123;
+const a = "it was so good.";
